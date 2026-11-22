@@ -1,8 +1,7 @@
-
 {
   "version": "1.0.0",
-  "downloadUrl": null,
-  "sha256": null,
+  "downloadUrl": "https://github.com/Art4k1/CleanBox-Updates/releases/download/v1.0.0/CleanBox-Portable.exe",
+  "sha256": "<хеш из шага 3>",
   "mandatory": false,
   "releaseNotes": "Первоначальная версия CleanBox."
 }
